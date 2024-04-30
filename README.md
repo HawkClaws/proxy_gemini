@@ -2,7 +2,7 @@
 
 # How to use
 
-`pip install git+https://github.com/HawkClaws/ProxyGemini.git`
+`pip install git+https://github.com/HawkClaws/proxy_gemini.git`
 
 ```python
 llm = ProxyGemini(
